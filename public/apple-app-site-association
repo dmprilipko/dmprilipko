@@ -1,0 +1,13 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "org.reactjs.native.example.Fabi",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
+}

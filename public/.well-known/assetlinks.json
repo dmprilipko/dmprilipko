@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : {
+    "namespace": "Fabi",
+    "package_name": "com.fabi", // todo https://www.fabi.com
+    "sha256_cert_fingerprints": ["hash_of_app_certificate"] // todo change to real hash_of_app_certificate
+  }
+}]
