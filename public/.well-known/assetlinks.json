@@ -2,7 +2,10 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target" : {
     "namespace": "Fabi",
-    "package_name": "com.fabi", // todo https://www.fabi.com
-    "sha256_cert_fingerprints": ["hash_of_app_certificate"] // todo change to real hash_of_app_certificate
+    "package_name": "com.fabi",
+    "sha256_cert_fingerprints": [
+      "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C",
+      "C6:8A:63:30:A4:12:06:76:94:43:E2:97:4B:14:78:F1:10:F2:90:6B:37:13:DC:45:3E:83:97:40:2E:6A:09:2C"
+    ]
   }
 }]

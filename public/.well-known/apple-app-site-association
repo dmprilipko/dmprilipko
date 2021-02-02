@@ -1,0 +1,19 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": ["JZUX7Z6U42.org.reactjs.native.JZUX7Z6U42.Fabi"],
+                "components": [
+                    {
+                        "/": "/auth/email-verification",
+                        "?": { "hash": "*" },
+                        "comment": "Matches URL whose path equals /auth/email-verification and which has a query item with name 'hash'"
+                    }
+                ]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": ["JZUX7Z6U42.org.reactjs.native.JZUX7Z6U42.Fabi"]
+    }
+}
